@@ -18,8 +18,10 @@ lib/
     ├── data/
     │   └── repository/
     │       └── local/
-    │           └── preferences/
-    │               └── counter_repository_imp.dart
+    │       │   └── preferences/
+    │       │       └── preferences.dart
+    │       │
+    │       └── counter_repository_imp.dart
     │
     ├── domain/
     │   ├── model/
