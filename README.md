@@ -1,7 +1,7 @@
 
 # Flutter Multicounter App (challenge)
 
-Este proyecto está estructurado usando los principios de **Clean Architecture** junto con el manejo de estado utilizando **Riverpod**, usando **Shared_preferences** para la persistencia de datos y usando **uuid** para generar cadenas unicas. 
+Este proyecto está estructurado usando los principios de **Clean Architecture** junto con el manejo de estado utilizando **Riverpod**, **Shared_preferences** para la persistencia de datos y **uuid** para generar cadenas unicas. 
 
 El objetivo es mantener un código desacoplado, escalable y fácilmente testeable. (se omitio prueb unitaria) 
 
