@@ -5,6 +5,11 @@ Este proyecto está estructurado usando los principios de **Clean Architecture**
 
 El objetivo es mantener un código desacoplado, escalable y fácilmente testeable. (se omitio prueb unitaria) 
 
+## [Abrir video completo](./video_demo/demo.mov)
+## 🎦 Imagen demo
+
+<img src="demo_video/demo.gif" width="300" height="auto"/>
+
 ## 📁 Estructura de Carpetas
 
 ```plaintext
