@@ -5,7 +5,7 @@ Este proyecto está estructurado usando los principios de **Clean Architecture**
 
 El objetivo es mantener un código desacoplado, escalable y fácilmente testeable. (se omitio prueb unitaria) 
 
-## [Abrir video completo](./video_demo/demo.mov)
+## [Abrir video completo](https://github.com/GioRey/challenge/raw/refs/heads/main/demo_video/demo.mov)
 ## 🎦 Imagen demo
 
 <img src="demo_video/demo.gif" width="300" height="auto"/>
